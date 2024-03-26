@@ -9,7 +9,7 @@
   },
   "author": "Sanjay Shivraj",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "electron": "^1.8.2"
   }
 }
